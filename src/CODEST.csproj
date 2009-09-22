@@ -7,8 +7,8 @@
     <ProjectGuid>{8726B52B-3EE1-4AC1-87E8-92BD462FF308}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Z</RootNamespace>
-    <AssemblyName>ZLibrary</AssemblyName>
+    <RootNamespace>codest</RootNamespace>
+    <AssemblyName>codestlib</AssemblyName>
     <SccProjectName>
     </SccProjectName>
     <SccLocalPath>
@@ -26,7 +26,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>bin\Debug\ZLibrary.xml</DocumentationFile>
+    <DocumentationFile>bin\Debug\codestlib.xml</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
